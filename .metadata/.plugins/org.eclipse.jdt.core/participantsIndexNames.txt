@@ -1,0 +1,19 @@
+INDEX VERSION 1.131
+D:\hello_Doctor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2484354188.index
+\Web Chat
+D:\hello_Doctor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1949572357.index
+\hello_Doctor\src
+D:\hello_Doctor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1156949376.index
+\simple-java-webchat-application-master\src
+D:\hello_Doctor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1654951590.index
+\Blood_Bank\src
+D:\hello_Doctor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\313069062.index
+\Chat\src
+D:\hello_Doctor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2868269056.index
+\Chat\src
+D:\hello_Doctor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1358771509.index
+\ChatApp-master\src
+D:\hello_Doctor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\719762117.index
+\Chat\src
+D:\hello_Doctor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3987133736.index
+\Jsp_crud\src
